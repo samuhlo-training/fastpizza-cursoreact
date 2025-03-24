@@ -11,6 +11,8 @@ Aplicación creada con React para gestionar pedidos de pizza de manera rápida y
 <p> Creado siguiendo el cursos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
 </p>
 
+<a href="https://fastpizza-cursoreact.onrender.com/">LINK</a>
+
 </div>
 
 <div align="center">
@@ -32,9 +34,9 @@ Aplicación creada con React para gestionar pedidos de pizza de manera rápida y
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-</div>
-
 <img src="portada.webp"></img>
+
+</div>
 
 ## Stack
 
@@ -47,7 +49,7 @@ Aplicación creada con React para gestionar pedidos de pizza de manera rápida y
 ### 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/samU13/fastpizza-cursoreact.git
+git clone https://github.com/samuhlo-training/fastpizza-cursoreact.git
 cd fastpizza-cursoreact
 ```
 
