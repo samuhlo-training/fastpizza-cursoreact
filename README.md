@@ -11,7 +11,7 @@ Aplicación creada con React para gestionar pedidos de pizza de manera rápida y
 <p> Creado siguiendo el cursos de <a href="https://codingheroes.io/">Jonas Schmedtmann</a>
 </p>
 
-<a href="https://fastpizza-cursoreact.onrender.com/">LINK</a>
+<strong><a href="https://fastpizza-cursoreact.onrender.com/">LINK</a></strong>
 
 </div>
 
